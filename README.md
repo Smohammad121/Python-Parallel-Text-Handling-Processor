@@ -230,7 +230,7 @@ Handles full pipeline:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/springboardmentor587-star/Python-Parallel-Text-Handling-Processor.git
+git clone https://github.com/Smohammad121/Python-Parallel-Text-Handling-Processor.git
 cd Python-Parallel-Text-Handling-Processor
 ```
 
