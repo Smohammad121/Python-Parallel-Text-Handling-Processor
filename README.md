@@ -1,2 +1,1 @@
-# Python-Parallel-Text-Handling-Processor
-A high-performance Python system for parallel text processing, rule-based compliance checking, and performance analysis. Includes modular text loaders, parallel breakers, storage engine, search utilities, email reporting, and a full Streamlit dashboard.
+🚀 Python Parallel Text Handling – Compliance Checking System A high-performance Python system for parallel text processing, rule-based compliance validation, large-file handling, and automated reporting. Built with a modular architecture including loaders, text breakers, compliance rules, search utilities, storage modules, performance testers, and a full Streamlit dashboard.
